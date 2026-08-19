@@ -7,4 +7,3 @@ xhofe/alist:latest
 mysql:8.0
 redis:7-alpine
 apache/rocketmq:4.9.7
-apache/rocketmq:5.5.0
