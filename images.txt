@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql:8.0
 redis:7-alpine
 apache/rocketmq:4.9.7
+openresty/openresty:latest
